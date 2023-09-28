@@ -1,0 +1,15 @@
+{
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "php": "html"
+  },
+  "emmet.preferences": {
+    "javascript": "jsx",
+    "php": "html"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5"
+}
